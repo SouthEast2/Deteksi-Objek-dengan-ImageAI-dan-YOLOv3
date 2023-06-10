@@ -1,4 +1,4 @@
-# Final Project Kecerdasan Buatan Kelompok 13
+# Final Project Kecerdasan Buatan (D081) | Kelompok 13 | UPN Veteran Jawa Timur
 Dosen Pengampu: Dr. Basuki Rahmat, S.Si, MT
 
 Anggota Kelompok:
