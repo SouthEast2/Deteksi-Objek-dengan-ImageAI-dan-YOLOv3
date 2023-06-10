@@ -1,5 +1,6 @@
 # Final Project Kecerdasan Buatan Kelompok 13
 Dosen Pengampu: Dr. Basuki Rahmat, S.Si, MT
+
 Anggota Kelompok:
 1) Ananda Bagus Priawan (21081010252)
 2) Alfi Ramadhaniar (21081010207)
