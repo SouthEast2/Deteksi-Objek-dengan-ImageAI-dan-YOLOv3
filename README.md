@@ -1,3 +1,9 @@
+# Final Project Kecerdasan Buatan Kelompok 13
+Dosen Pengampu: Dr. Basuki Rahmat, S.Si, MT
+Anggota Kelompok:
+1) Ananda Bagus Priawan (21081010252)
+2) Alfi Ramadhaniar (21081010207)
+
 # Deteksi-Objek-dengan-ImageAI-dan-YOLOv3
 Program sederhana untuk mendeteksi objek dalam gambar menggunakan metode YOLOv3 dan library ImageAI.
 
@@ -16,14 +22,12 @@ Program ini menggunakan model YOLOv3 untuk mendeteksi objek dalam gambar. Dengan
 
 # Instalasi
 1. Clone repository ini ke direktori lokal Anda.
-2. Instal prasyarat dengan menjalankan perintah berikut:
-   > pip install -r requirements.txt
-3. Letakkan file model YOLOv3 (yolov3.pt) di direktori model.
-4. Persiapkan gambar input yang ingin Anda deteksi dan letakkan di direktori input.
+2. Pastikan file model YOLOv3 (yolov3.pt) di direktori model.
+3. Persiapkan gambar input yang ingin Anda deteksi dan letakkan di direktori input.
 
 # Penggunaan
 1. Buka file object_detection.py.
-2. Sesuaikan jalur file model YOLOv3 jika diperlukan:
+2. Sesuaikan jalur file model YOLOv3:
    > 'model_path = "model/yolov3.pt"'
 3. Jalankan program dengan perintah berikut:
    > 'python object_detection.py'
