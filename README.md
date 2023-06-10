@@ -23,8 +23,9 @@ Program ini menggunakan model YOLOv3 untuk mendeteksi objek dalam gambar. Dengan
 
 # Instalasi
 1. Clone repository ini ke direktori lokal Anda.
-2. Pastikan file model YOLOv3 (yolov3.pt) di direktori model.
-3. Persiapkan gambar input yang ingin Anda deteksi dan letakkan di direktori input.
+2. Buat folder baru bernama "model" di dalam direktori program.
+3. Unduh file model YOLOv3 (yolov3.pt) dari (https://github.com/OlafenwaMoses/ImageAI/releases/download/3.0.0-pretrained/yolov3.pt/) ke komputer Anda.
+4. Pindahkan file "yolov3.pt" yang sudah diunduh ke dalam folder "model" yang telah Anda buat sebelumnya.
 
 # Penggunaan
 1. Buka file object_detection.py.
