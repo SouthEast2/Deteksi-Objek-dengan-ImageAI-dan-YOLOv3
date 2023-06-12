@@ -3,7 +3,7 @@ Dosen Pengampu: Dr. Basuki Rahmat, S.Si, MT
 
 Anggota Kelompok:
 1) Ananda Bagus Priawan (21081010252)
-2) Alfi Ramadhaniar (21081010207)
+2) Alfi Ramadhaniar (21081010072)
 
 # Deteksi-Objek-dengan-ImageAI-dan-YOLOv3
 Program sederhana untuk mendeteksi objek dalam gambar menggunakan metode YOLOv3 dan library ImageAI.
